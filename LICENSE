@@ -19,3 +19,20 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+================================================================================
+VERİ SETİ LİSANSI VE ATIF (DATASET LICENSE AND ATTRIBUTION)
+================================================================================
+
+Bu projede kullanılan açık kaynaklı "Turkish SMS Collection" veri seti, 
+MIT lisansı kapsamı dışındadır ve kendi orijinal yayıncısının lisans 
+koşullarına tabidir. 
+
+- Veri Seti Adı: Turkish SMS Collection
+- Yayıncı: Onur Karasoy (Kaggle)
+- Kaynak URL: https://www.kaggle.com/datasets/onurkarasoy/turkish-sms-collection
+
+Veri setinin kullanımı, dağıtımı ve ticari kullanım hakları, ilgili Kaggle 
+sayfasında belirtilen lisans şartlarına (Kaggle Dataset License) tabidir. 
+Bu veri seti, projede yalnızca modelin eğitimi ve test edilmesi amacıyla 
+referans olarak kullanılmıştır.
